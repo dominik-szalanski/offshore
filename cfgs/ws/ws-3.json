@@ -1,0 +1,239 @@
+// vim:ts=4:sw=4:et
+{
+    // tabbed split container with 6 children
+    "border": "none",
+    "floating": "auto_off",
+    "layout": "tabbed",
+    "marks": [],
+    "percent": 0.4,
+    "type": "con",
+    "nodes": [
+        {
+            "border": "none",
+            "current_border_width": 0,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 1535,
+               "width": 2532,
+               "x": 14,
+               "y": 51
+            },
+            "marks": [],
+            "name": "Microsoft Teams - (1) Chat | Thomas Schmeling | Microsoft Teams",
+            "percent": 0.166666666666667,
+            "swallows": [
+               {
+               // "class": "^Chromium$",
+               // "instance": "^crx_cifhbcnohmdccbgoicgdjpfamggdegmo$",
+               // "machine": "^fw16\\-iwfmy$",
+               // "title": "^Microsoft\\ Teams\\ \\-\\ \\(1\\)\\ Chat\\ \\|\\ Thomas\\ Schmeling\\ \\|\\ Microsoft\\ Teams$",
+               // "window_role": "^pop\\-up$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "none",
+            "current_border_width": 0,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 1553,
+               "width": 1263,
+               "x": 1283,
+               "y": 33
+            },
+            "marks": [],
+            "name": "Dominik Szalanski (CryptoStruct)",
+            "percent": 0.166666666666667,
+            "swallows": [
+               {
+               // "class": "^TelegramDesktop$",
+               // "instance": "^telegram\\-desktop$",
+               // "machine": "^fw16\\-iwfmy$",
+               // "title": "^Dominik\\ Szalanski\\ \\(CryptoStruct\\)$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "none",
+            "current_border_width": 0,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 1535,
+               "width": 2532,
+               "x": 14,
+               "y": 51
+            },
+            "marks": [],
+            "name": "Outlook (PWA) - Email - Dominik Szalanski - Outlook",
+            "percent": 0.166666666666667,
+            "swallows": [
+               {
+               // "class": "^Chromium$",
+               // "instance": "^crx_faolnafnngnfdaknnbpnkhgohbobgegn$",
+               // "machine": "^fw16\\-iwfmy$",
+               // "title": "^Outlook\\ \\(PWA\\)\\ \\-\\ Email\\ \\-\\ Dominik\\ Szalanski\\ \\-\\ Outlook$",
+               // "window_role": "^pop\\-up$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "none",
+            "current_border_width": 0,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 1440,
+               "width": 2304,
+               "x": 128,
+               "y": 80
+            },
+            "marks": [],
+            "name": "Kuro",
+            "percent": 0.166666666666667,
+            "swallows": [
+               {
+               // "class": "^Kuro$",
+               // "instance": "^kuro$",
+               // "machine": "^fw16\\-iwfmy$",
+               // "title": "^Kuro$",
+               // "window_role": "^browser\\-window$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "none",
+            "current_border_width": 0,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 1535,
+               "width": 2532,
+               "x": 14,
+               "y": 51
+            },
+            "marks": [],
+            "name": "Keeper® Password Manager & Digital Vault",
+            "percent": 0.166666666666667,
+            "swallows": [
+               {
+               // "class": "^Keeper\\ Password\\ Manager$",
+               // "instance": "^keeper\\ password\\ manager$",
+               // "machine": "^fw16\\-iwfmy$",
+               // "title": "^Keeper\\®\\ Password\\ Manager\\ \\&\\ Digital\\ Vault$",
+               // "window_role": "^browser\\-window$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "none",
+            "current_border_width": 0,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 1516,
+               "width": 1924,
+               "x": 0,
+               "y": 0
+            },
+            "marks": [],
+            "name": "i3-save-tree > work/repos/offshore/cfgs/ws/ws-1.json",
+            "percent": 0.166666666666667,
+            "swallows": [
+               {
+               // "class": "^URxvt$",
+               // "instance": "^urxvt$",
+               // "machine": "^fw16\\-iwfmy$",
+               // "title": "^i3\\-save\\-tree\\ \\>\\ work\\/repos\\/offshore\\/cfgs\\/ws\\/ws\\-1\\.json$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
+{
+    // tabbed split container with 3 children
+    "border": "none",
+    "floating": "auto_off",
+    "layout": "tabbed",
+    "marks": [],
+    "percent": 0.6,
+    "type": "con",
+    "nodes": [
+        {
+            "border": "none",
+            "current_border_width": 0,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 1553,
+               "width": 2532,
+               "x": 14,
+               "y": 33
+            },
+            "marks": [],
+            "name": "AUR (en) - i3tree-git - Chromium",
+            "percent": 0.333333333333333,
+            "swallows": [
+               {
+               // "class": "^Chromium$",
+               // "instance": "^chromium$",
+               // "machine": "^fw16\\-iwfmy$",
+               // "title": "^AUR\\ \\(en\\)\\ \\-\\ i3tree\\-git\\ \\-\\ Chromium$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "none",
+            "current_border_width": 0,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 1535,
+               "width": 2532,
+               "x": 14,
+               "y": 51
+            },
+            "marks": [],
+            "name": "New Tab - Chromium",
+            "percent": 0.333333333333333,
+            "swallows": [
+               {
+               // "class": "^Chromium$",
+               // "instance": "^chromium$",
+               // "machine": "^fw16\\-iwfmy$",
+               // "title": "^New\\ Tab\\ \\-\\ Chromium$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "none",
+            "current_border_width": 0,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 1535,
+               "width": 2532,
+               "x": 14,
+               "y": 51
+            },
+            "marks": [],
+            "name": "Graylog - Chromium",
+            "percent": 0.333333333333333,
+            "swallows": [
+               {
+               // "class": "^Chromium$",
+               // "instance": "^chromium$",
+               // "machine": "^fw16\\-iwfmy$",
+               // "title": "^Graylog\\ \\-\\ Chromium$",
+               // "window_role": "^browser$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
