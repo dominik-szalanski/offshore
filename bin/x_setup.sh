@@ -11,8 +11,8 @@ case $1 in
         exit 0
         ;;
     wfh)
-        echo "TBI"
-        exit 1
+        xrandr --output DisplayPort-3 --mode 3840x2160 --primary --rate 60 --output eDP --off
+        exit 0
         ;;
     *)
         echo "unknown parameter"
