@@ -31,6 +31,10 @@ case $1 in
         ssh-add ~/.keys/primrose_*
         exit 0
         ;;
+    infinity)
+	ssh-add ~/.keys/infinity-research*
+	exit 0
+	;;
     *)
         echo "unknown parameter"
         exit 1
