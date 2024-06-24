@@ -32,9 +32,13 @@ case $1 in
         exit 0
         ;;
     infinity)
-	ssh-add ~/.keys/infinity-research*
-	exit 0
-	;;
+        ssh-add ~/.keys/infinity-research*
+        exit 0
+	    ;;
+    flintstone)
+        ssh-add ~/.keys/flintstone_*
+        exit 0
+	    ;;
     *)
         echo "unknown parameter"
         exit 1
