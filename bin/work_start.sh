@@ -9,7 +9,9 @@ load_keys.sh
 
 socksproxy.sh
 
-x_setup.sh "$1"
+if [ "$1" != "none" ]; then
+    x_setup.sh "$1"
+fi
 
 i3-msg "workspace 4; append_layout ~/work/repos/offshore/cfgs/ws/ws-3.cfg"
 i3-msg "exec --no-startup-id chromium --profile-directory=Profile\ 1 --app-id=cifhbcnohmdccbgoicgdjpfamggdegmo"
