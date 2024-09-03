@@ -39,6 +39,14 @@ case $1 in
         ssh-add ~/.keys/flintstone_*
         exit 0
 	    ;;
+    ecn)
+        ssh-add ~/.keys/ecn_*
+        exit 0
+	    ;;
+    coober)
+        ssh-add ~/.keys/coober_*
+        exit 0
+	    ;;
     *)
         echo "unknown parameter"
         exit 1
