@@ -48,6 +48,10 @@ case $1 in
         ssh-add ~/.keys/coober_*
         exit 0
 	    ;;
+    arpara)
+        ssh-add ~/.keys/arpara_*
+        exit 0
+	    ;;
     *)
         echo "unknown parameter"
         exit 1
