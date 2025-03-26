@@ -52,6 +52,14 @@ case $1 in
         ssh-add ~/.keys/arpara_*
         exit 0
 	    ;;
+    razorpeak)
+        ssh-add ~/.keys/razorpeak_*
+        exit 0
+	    ;;
+    silvercastle)
+        ssh-add ~/.keys/silvercastle_*
+        exit 0
+	    ;;
     *)
         echo "unknown parameter"
         exit 1
